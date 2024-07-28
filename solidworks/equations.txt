@@ -1,0 +1,1 @@
+﻿"wood_thickness"= 0.5in
